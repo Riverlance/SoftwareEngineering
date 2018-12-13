@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Software Engineering</string>
+    <string name="main_buttonPushMe">Push Me</string>
+    <string name="main_buttonClickMe">Click Me</string>
+    <string name="main_textViewTest">This is a test</string>
 </resources>
